@@ -1,1 +1,2 @@
 DROP TABLE IF EXISTS "utilities";
+DROP TABLE IF EXISTS "accounts";
